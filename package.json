@@ -1,0 +1,13 @@
+{
+  "name": "SEMIUI",
+  "version": "1.0.0",
+  "description": "Foundation / Bootstrap UIKit",
+  "main": "index.js",
+  "repository": "git@github.com:laptrinhvienpro/semiui.git",
+  "author": "Tri Huynh <mr.tonyhuynh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "foundation-sites": "^6.3.1"
+  }
+}
